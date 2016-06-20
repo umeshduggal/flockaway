@@ -18,7 +18,34 @@
                 preppend_input_text: 'R$',
                 preppend_input_text_wrapper_html: { class: 'fontsize-base lineheight-tightest' }
 
-              = render "#{@project.mode}_dashboard_explanation", form: form
+              = form.input :min_people,
+                type: 'number',
+                wrapper: :two_columns,
+                wrapper_class: 'w-row u-marginbottom-30 card card-terciary medium',
+                label_wrapper_html: { class: 'w-col w-col-5 w-subcol' },
+                text_field_wrapper_html: { class: 'w-col w-col-7 w-sub-col' },
+                input_html: { class: 'positive medium', required: false },
+                validation_text: false
+
+              = form.input :max_people,
+                  type: 'number',
+                  wrapper: :two_columns,
+                  wrapper_class: 'w-row u-marginbottom-30 card card-terciary medium',
+                  label_wrapper_html: { class: 'w-col w-col-5 w-subcol' },
+                  text_field_wrapper_html: { class: 'w-col w-col-7 w-sub-col' },
+                  input_html: { class: 'positive medium', required: false },
+                  validation_text: false
+              = form.input :trip_end_date,
+                  as: 'date',
+                  html5: true,
+                  wrapper: :two_columns,
+                  wrapper_class: 'w-row w-col u-marginbottom-30 card card-terciary medium',
+                  label_wrapper_html: { class: 'w-col w-col-5 w-subcol' },
+                  text_field_wrapper_html: { class: 'w-col w-col-7 w-sub-col' },
+                  input_html: { class: 'positive medium', required: false },
+                  validation_text: false
+
+              /= render "#{@project.mode}_dashboard_explanation", form: form
 
     .w-section.save-draft-btn-section
       .w-container

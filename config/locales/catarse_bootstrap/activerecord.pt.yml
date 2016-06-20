@@ -105,7 +105,7 @@ pt:
         image_url: "URL da imagem"
         name: "Nome do projeto"
         service_fee: 'Taxa do Catarse'
-        goal: "Valor a ser arrecadado"
+        goal: "Trip fee per person"
         about_html: "Descrição do projeto"
         user_id: "Id do usuário"
         video_url: "URL do vídeo"
@@ -117,6 +117,8 @@ pt:
         first_contributions: "Quem são as primeiras pessoas que você vai pedir para apoiar o seu projeto?"
         budget: 'Orçamento do projeto'
         uploaded_image: 'Imagem do projeto'
+        min_people: 'Minimum number of people required for the Trip'
+        max_people: 'Maximum number of people allowed for the Trip'
       user:
         address_city: Cidade
         address_complement: Complemento

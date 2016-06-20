@@ -1,5 +1,7 @@
 en:
   admin: &admin
+    filter:
+      title: 'Filtros'
     confirm_dialog: 'You are sure?'
     projects:
       index:

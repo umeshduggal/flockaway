@@ -90,6 +90,10 @@ class ProjectsController < ApplicationController
   end
 
   def update
+    logger.info "****************update************"
+    logger.info "****************update************"
+    logger.info "****************update************"
+    logger.info resource.inspect
     authorize resource
 
     #need to check this before setting new attributes
@@ -171,6 +175,10 @@ class ProjectsController < ApplicationController
   end
 
   def resource_action action_name, success_redirect=nil, show_modal=nil
+    logger.info "****************action_name************"
+    logger.info "****************action_name************"
+    logger.info "****************action_name************"
+    logger.info resource.inspect
     if resource.send(action_name)
       if resource.origin.nil? && referral.present?
         resource.update_attribute(
@@ -202,6 +210,10 @@ class ProjectsController < ApplicationController
   end
 
   def projects
+    logger.info "****************action_name************"
+    logger.info "****************updaction_nameate************"
+    logger.info "****************action_name************"
+    logger.info params.inspect
     page = params[:page] || 1
     @projects ||= apply_scopes(Project.visible.order_status).
       most_recent_first.

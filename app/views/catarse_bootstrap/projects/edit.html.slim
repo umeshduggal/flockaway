@@ -24,8 +24,8 @@
           = render 'dashboard_goal'
         #dashboard_video.content.w-hidden  data-page_title=t(".#{@project.mode}.video_html") data-page_subtitle=t(".#{@project.mode}.video_subtitle")
           = render 'dashboard_video'
-        #dashboard_budget.content.w-hidden data-page_title=t(".#{@project.mode}.budget_html") data-page_subtitle="#{t('.budget_subtitle')}"
-          = render 'dashboard_budget'
+        /#dashboard_budget.content.w-hidden data-page_title=t(".#{@project.mode}.budget_html") data-page_subtitle="#{t('.budget_subtitle')}"
+        /  = render 'dashboard_budget'
         #dashboard_card.content.w-hidden data-page_title="#{t('.card')}" data-page_subtitle="#{t('.card_subtitle')}"
           = render 'dashboard_card'
         #dashboard_description.content.w-hidden data-page_title="#{t('.description')}" data-page_subtitle="#{t('.description_subtitle')}"
@@ -38,8 +38,8 @@
         - if @project.published?
           #dashboard_posts.content.w-hidden data-page_title="#{t('.posts')}" data-page_subtitle=""
             = render 'dashboard_posts'
-        #dashboard_reward.content.w-hidden data-page_title=t(".#{@project.mode}.reward_html") data-page_subtitle=t(".#{@project.mode}.reward_subtitle")
-          = render 'dashboard_reward'
+        /#dashboard_reward.content.w-hidden data-page_title=t(".#{@project.mode}.reward_html") data-page_subtitle=t(".#{@project.mode}.reward_subtitle")
+        /  = render 'dashboard_reward'
         - if @project.published?
           #dashboard_reports.content.w-hidden data-page_title="#{t('.reports')}" data-page_subtitle=""
             = render 'dashboard_reports'

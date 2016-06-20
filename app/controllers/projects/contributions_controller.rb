@@ -41,9 +41,12 @@ class Projects::ContributionsController < ApplicationController
       @contribution.reward = @selected_reward
       @contribution.value = "%0.0f" % @selected_reward.minimum_value
     end
+    return redirect_to fallback_create_project_contributions_path(parent, value:  DEFAULT_AMOUNT.to_i)
   end
 
   def create
+    params[:contribution] = {}
+    params[:contribution][:value] = (params[:value].presence || DEFAULT_AMOUNT).to_i
     @title = t('projects.contributions.create.title')
     @contribution = parent.contributions.new.localized
     @contribution.user = current_user

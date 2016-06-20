@@ -234,5 +234,5 @@ pt:
             answer: '<a href="http://suporte.catarse.me/hc/pt-br">Acesse nossa Central de Suporte</a> ou entre em contato conosco através do email: contato@catarse.me'
       form:
         title: 'Quero iniciar uma campanha chamada'
-        select_default: 'Selecione uma categoria'
+        select_default: 'Selecione uma cidade'
         submit: 'Comece seu rascunho'
