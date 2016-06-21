@@ -95,7 +95,9 @@ class ProjectsController < ApplicationController
     logger.info "****************update************"
     logger.info resource.inspect
     authorize resource
-
+    if params[:project][:trip_end_date]
+      params[:project][:online_days] = (params[:project][:trip_end_date].to_date - Date.today).to_i
+    end
     #need to check this before setting new attributes
     should_validate = should_use_validate
 
@@ -106,7 +108,7 @@ class ProjectsController < ApplicationController
     end
 
     should_show_modal = resource.mode == 'flex' && resource.online_days_changed?
-
+    
 
     if resource.save(validate: should_validate)
       flash[:notice] = t('project.update.success')
