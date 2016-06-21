@@ -88,7 +88,7 @@ puts 'Seeding the database...'
   email_projects: 'projects@flockaway.to',
   email_system: 'system@flockaway.to',
   email_no_reply: 'no-reply@flockaway.to',
-  facebook_url: "http://facebook.com/flockaway.to",
+  facebook_url: "http://facebook.com/catarse.me",
   facebook_app_id: '173747042661491',
   twitter_url: 'http://twitter.com/flockaway',
   twitter_username: "flockaway",
