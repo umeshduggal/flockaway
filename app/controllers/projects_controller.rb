@@ -95,7 +95,7 @@ class ProjectsController < ApplicationController
     logger.info "****************update************"
     logger.info resource.inspect
     authorize resource
-    if params[:project][:trip_end_date]
+    if params[:project][:trip_end_date].present?
       params[:project][:online_days] = (params[:project][:trip_end_date].to_date - Date.today).to_i
     end
     #need to check this before setting new attributes
