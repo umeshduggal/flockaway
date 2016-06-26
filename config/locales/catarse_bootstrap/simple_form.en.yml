@@ -1,0 +1,72 @@
+en:
+  simple_form:
+    collections:
+      project:
+        traffic_sources:
+          one: "I have had another project in Catharsis"
+          two: "indication of a person who has had a project in Catharsis"
+          three: "indication colleague / friend / professional contact"
+          four: "from a project that was picking up on the platform"
+          five: "article in a blog"
+          six: "an article in the press (news portal on the Internet, TV, newspaper, magazine)"
+          seven: "in a class / course / lecture / event"
+          eight: "I did an Internet search on public funding / alternative forms of funding"
+          nine: "Other"
+    validation_texts:
+      reward:
+        minimum_value: "Tell a higher minimum or equal to 10"
+        description: "Enter a description for the reward"
+      bank_account:
+        input_bank_number: "Invalid Bank number"
+        bank_id: "Select a bank"
+        agency: "What is the agency's number?"
+        account: "What is the account number?"
+        account_digit: "What is the check digit?"
+        agency_digit: "What is the digit of the agency?"
+        owner_name: "Enter a name with at least 5 and a maximum of 30 letters"
+        owner_document: "Enter a valid Social Security number for the account holder"
+      contribution:
+        payer_name: "Please enter the name of the supporter"
+        payer_email: "Please enter a valid email"
+        payer_document: "Please enter a valid Social Security Number"
+        address_state: "Select a state"
+        address_street: "Enter the street name"
+        address_number: "Enter the address number"
+        address_neighbourhood: "Enter the neighborhood name"
+        address_city: "Enter the name of the city"
+        address_zip_code: "Enter the zip code"
+        address_phone_number: "Enter the phone number"
+    prompts:
+      project:
+        category: "Select a category"
+        select: "Select an option"
+        traffic_sources: "How did you meet Catharsis?"
+    hints:
+      flexible_project:
+        select: "Select an option"
+        traffic_sources: "How did you meet Catharsis?"
+        name: "Give a name that people will remember easily not exceed 50 characters.."
+        all_tags: "Enter tags separated by commas"
+        permalink: "You can edit it to the project to air Prefer something simple, straightforward and well identify your design Try not to use hyphen, underscore etc."
+        category: "Choose the most appropriate to your project."
+        city: "Where your project will be done if it happens in more than one place, one tip is to place the city where your network of potential supporters is greater."
+        goal: "Plan a consistent goal with your project proposes Review your budget and do not forget to include the rate of 13% charged by Catharsis."
+        online_days: "You can choose between 1 and 60 days for your campaign Check out the guide of directors for tips on deadlines."
+        video_url: "Link your video on Vimeo or  <br/> Youtube."
+        about_html: "Speak with passion and clarity about what will be done Clarify any doubts about how the money will be used, who is behind the project, how and when the project will be delivered Transparency attracts more supporters Remember:. your project It will be accessed by ordinary people who decide whether or not to support your project. Caprice! "
+        headline: "Quote the project card to call supporters should have a maximum of 100 characters and well summarize the project."
+        uploaded_image: "This image will be used as the thumbnail of your project (PNG, JPG, size 600 x 340)"
+      project:
+        select: "Select an option"
+        traffic_sources: "How did you meet Catharsis?"
+        name: "Give a name that people will remember easily not exceed 50 characters."
+        all_tags: "Enter tags separated by commas"
+        permalink: "You can edit it to the project to air Prefer something simple, straightforward and well identify your design Try not to use hyphen, underscore etc."
+        category: "Choose the most appropriate to your project."
+        city: "Where your project will be done if it happens in more than one place, one tip is to place the city where your network of potential supporters is greater."
+        goal: "Plan a consistent goal with your project proposes Review your budget and do not forget to include the rate of 13% charged by Catharsis."
+        online_days: "You can choose between 1 and 60 days for your campaign Check out the guide of directors for tips on deadlines."
+        video_url: "Link your video on Vimeo or <br/> Youtube."
+        about_html: "Speak with passion and clarity about what will be done Clarify any doubts about how the money will be used, who is behind the project, how and when the project will be delivered Transparency attracts more supporters Remember:. your project It will be accessed by ordinary people who decide whether or not to support your project. Caprice! "
+        headline: "Quote the project card to call supporters should have a maximum of 100 characters and well summarize the project."
+        uploaded_image: "This image will be used as the thumbnail of your project (PNG, JPG, size 600 x 340)"

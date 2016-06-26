@@ -1,0 +1,17 @@
+en:
+ found_singular: Found
+ found_plural: Found
+ project_singular: project
+ project_plural: projects
+ contribution_singular: supporter
+ contribution_plural: supporters
+ remaining_singular: rest
+ remaining_plural: other
+ created_project:
+  zero: "not yet created projects"
+  one: "%{count} project created"
+  other: "%{count} projects created"
+ contributed_project:
+   zero: "not yet supported projects"
+   one: "%{count} supported project"
+   other: "%{count} supported projects"
