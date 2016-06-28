@@ -1,0 +1,19 @@
+en:
+  pages:
+    explore:
+      header_html: "Explore amazing projects &nbsp;"
+      success_follow: "Thank you! We will send you a weekly email with latest designs from category %{name}."
+      success_unfollow: "You failed to follow the category %{name}."
+      follow: Follow
+      unfollow: Unfollow
+      following: followers
+      categories: Categories
+      expiring: In the final stretch
+      in_funding: In the air
+      near: Next to me
+      quick_explore: Quick Search
+      recent: Recent
+      recommended: Popular
+      subtitle: "Explore the projects, find the ones that touch your heart, make it happen!"
+      successful: Successful
+      title: Find amazing projects

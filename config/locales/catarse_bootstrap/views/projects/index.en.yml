@@ -1,0 +1,69 @@
+en:
+  projects:
+    index_header:
+      subtitle: Fund projects collaboratively and become part of something larger. Promote a collective catharsis! You're the missing piece in this story.
+      title: Make it happen the projects you believe
+    index:
+      title: 'Catarse'
+      back_a_project: 'Support a project'
+      banner_before: 'Take '
+      banner_words:
+        0: 'dreams'
+        1: 'records'
+        2: 'exhibition'
+        3: 'research'
+        4: 'carnivals'
+        5: 'photos'
+        6: 'plays'
+        7: 'documentaries'
+        8: 'books'
+        9: 'spectacles'
+        10: 'passions'
+        11: 'encounters'
+        12: 'Music'
+        13: 'products'
+        14: 'attitudes'
+        15: 'movies'
+        16: 'comic'
+        17: 'ideas'
+      banner_after: ' paper'
+      see_all: 'See all'
+      near_you: 'Next to you'
+      recents: Recent
+      blog: Blog Catarse
+      expiring: In the final stretch
+      recommended: Popular
+      banner_subtitle: 'music, comics, cinema, social impact, technology and more. Meet, inspire and support projects.'
+      box:
+        by: by
+        when: in
+      banner: "Know search"
+      explore: "Explore projects"
+      links:
+        channels: "Discover Channel Wings"
+        recommended: "Find projects recommended"
+        expiring: "Find projects in the homestretch"
+        recents: "Discover recent projects"
+        near: "Discover projects near you"
+      sidebar:
+        titles:
+          blog: blog
+          facebook: "already we like our face?"
+          newsletter: "Subscribe to our news"
+          faq: "okay with doubt?"
+          schedule: schedule
+        placeholders:
+          email: "Enter your email"
+        buttons:
+          newsletter: Send
+      sections:
+        near:
+          title: 'Next to Me'
+        recommended:
+          title: 'Popular'
+        expiring:
+          title: "In the final stretch"
+        recents:
+          title: "Recent"
+        channels:
+          title: 'Channel Wings'

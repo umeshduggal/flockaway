@@ -1,0 +1,54 @@
+en:
+  pages:
+    hello:
+      page-title: "Learn"
+      hero:
+        title: "Take paper Designs!"
+        people_html: "People have passed at least <br>1 project in Catharsis"
+        projects_html: "Projects already were <br>financed Catharsis"
+        money_html: "Data for projects <br>published here"
+        success: "Projects have been funded Catharsis"
+        money: "Data for projects published here"
+      idea:
+        title: "It all starts with a project!"
+        subtitle: "But having a project is not enough. You must have access to relevant people and resources necessary for it to come true."
+      fund:
+        title: "Group Finance"
+        subtitle: "In Catharsis, it is possible Filmmakers projects of various categories connect to interested supporters to contribute with small donations."
+      campaign:
+        title: "collection campaigns"
+        subtitle: "Filmmakers have 60 days to capture the financial goal that determined for the project happen In exchange for support, offer creative rewards."
+      allornothing:
+        title: "All or nothing!"
+        subtitle: "The goal is to hit the target in time to receive the amount collected or all supporters receive the money back Plan campaign is the secret!"
+      success:
+        title: "The project leaves the paper"
+        subtitle: "Supporters want to see happen Project With the success of the campaign, filmmakers produce the project and prepare the delivery of rewards to supporters."
+      cta:
+        title: "Know Catharsis in practice"
+        backer-cta: "Become a supporter, help people and receive exclusive rewards"
+        backer-link: "Support a project"
+        maker-cta: "Be a director, show your project to the world and raise money"
+        maker-link: "Start your project"
+      testimonial:
+        humberto:
+          text_html: "&#8220; It is a fascinating opportunity to be invited to share a person's dream and still receive a reward for the experience. &#8221;"
+          name: "Humberto Figueira"
+          credentials: "supported more than 150 projects in Catharsise"
+      details:
+        fund:
+          title: "Collective financing or Crowdfunding?"
+          text: "Two names for the same practice in which people contribute small amounts for projects together viabilizarem Crowd crowd is in English, funding, financing Crowdfunding is funding the crowd."
+        allornothing:
+          title: "Why All or nothing"
+          text_html: "We believe in the model &#8220;everything or nothing&#8221; because besides the campaigns collect more, this is one way we can ensure that a project will only happen if it can be delivered as described and promised to supporters."
+        services:
+          title: "Our services"
+          text: "The Catharsis provides support to users of the site and makes it possible for projects capture resources in a fast and direct way using the internet. Anyone above 18 years (or less, but with a legal representative) can use our services and make a crowdfunding campaign since the project is in accordance with our selection criteria. "
+        fees:
+          title: "How to sustain"
+          text: "We charge 13% of the total value of projects that have reached or exceeded the collection target. We get about 9% and 4% is passed on to Pagar.me, means of payment used in the Catharsis. Projects that do not meet the target have no cost and all supporters receive the money back."
+        work:
+          title: "We work with purpose and love"
+          text: "The Catharsis is independent, without investors, open source and built with love Our passion is to build an environment where more and more projects to come to life today are a team of 23 people eager to help distribute more resources. for projects throughout Brazil."
+      staff: "These are some of us waiting for you to take a part of the project..."

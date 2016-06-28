@@ -1,0 +1,28 @@
+en:
+  pages:
+    press:
+      page-title: "Press Room"
+      hero:
+        title: "Press Room"
+      stats:
+        title: "Our numbers"
+        subtitle: "Many artists, designers, researchers, gamers, scientists, entrepreneurs and activists met at a powerful platform for financially viable projects and their actions This story can be told in numbers."
+        people_html: "People have passed at least <br>1 project in Catharsis"
+        projects_html: "Projects already were <br> financed in Catharsis"
+        money_html: "Data for projects <br>published here"
+        cta_html: "See full details separated by category &gt;"
+      abstract:
+        title: "The Catharsis is the first and largest crowdfunding site, or crowdfunding, Brazil We are the meeting point of a growing community of people interested in, together, contribute financially to take the role of projects in several categories."
+      history:
+        title: "Foundation of the history of Catharsis"
+        subtitle: "PFirst crowdfunding platform for creative projects in Brazil, Catharsis went on the air on 17 January 2011. The founding manifesto said that the site was born because of a pain: see brilliant people with shelved projects..."
+        cta_html: "Read the full story &gt;"      
+      social:
+        title: "Follow our stories"
+        news: "Subscribe to our weekly newsletter"
+      assets:
+        title: "Need files in high resolution of our brand and stamps?" 
+        cta_html: "Download our brands &gt;" 
+      email:
+        title: "Want to talk to us?"
+        cta: "comunicacao@catarse.me"

@@ -1,0 +1,233 @@
+en:
+  pages:
+    start:
+      description: 'The Catharsis is the first and largest crowdfunding platform, or crowdfunding, Brazil. Come take part Designs!'
+      title: 'crowdfunding, collective financing in Brazil is the Catharsis'
+      tagline: 'crowdfunding, collective financing in Brazil is the Catharsis'
+      page-title: "How does Catharsis?"
+      page-subtitle: 'Know the basic pillars of a crowdfunding campaign'
+      title: "Finance your project collectively"
+      submit: "Get free"
+      learn-more: "know more"
+      slogan: 'Take your paper design'
+      header:
+        people: "People have supported at least 01 project in Catharsis"
+        success: 'Projects already were financed here'
+        money: 'We invested in ideas published in Catharsis'
+      banner:
+        1: 'supporters'
+        2: 'Your friends, family and interested in the project.'
+        3: 'Rewards'
+        4: 'This is what you offer in return for support.'
+        5: 'Meta'
+        6: 'How much do you want to raise the Catharsis.'
+        7: 'Time'
+        8: "It is the period that his campaign will be open to receive support."
+      video:
+        title: 'A crowdfunding campaign is guaranteed excitement. '
+        subtitle: 'Feel the taste...'
+        src: 'z7FBAjkcLG8'
+      categories:
+        title: 'The Catharsis has space for various projects! Meet our categories!'
+        pledged: "grossed R$ {{pledged}} with {{contributors}} support for the project "
+        loading_featured: 'carrying highlight project...'
+        no_featured: 'No Featured project.'
+      features:
+        title: 'The ideal platform for their campaign'
+        subtitle: 'Know the solutions we develop for you finance your idea!'
+      categoryProjects:
+        1:
+          category_id: 23
+          sample_project_ids:
+            primary: 4142
+            secondary: 1550
+        2:
+          category_id: 1
+          sample_project_ids:
+            primary: 6914
+            secondary: 9438
+        3:
+          category_id: 18
+          sample_project_ids:
+            primary: 17453
+            secondary: 1705
+        4:
+          category_id: 13
+          sample_project_ids:
+            primary: 10519
+            secondary: 17219
+        5:
+          category_id: 31
+          sample_project_ids:
+            primary: 9670
+            secondary: 16012
+        6:
+          category_id: 21
+          sample_project_ids:
+            primary: 14610
+            secondary: 10786
+        7:
+          category_id: 17
+          sample_project_ids:
+            primary: 7917
+            secondary: 12993
+        8:
+          category_id: 10
+          sample_project_ids:
+            primary: 16912
+            secondary: 7695
+        9:
+          category_id: 14
+          sample_project_ids:
+            primary: 5710
+            secondary: 15915
+        10:
+          category_id: 15
+          sample_project_ids:
+            primary: 9521
+            secondary: 15004
+        11:
+          category_id: 20
+          sample_project_ids:
+            primary: 11366
+            secondary: 8024
+        12:
+          category_id: 7
+          sample_project_ids:
+            primary: 14391
+            secondary: 11694
+        13:
+          category_id: 19
+          sample_project_ids:
+            primary: 11113
+            secondary: 12138
+        14:
+          category_id: 16
+          sample_project_ids:
+            primary: 11812
+            secondary: 15251
+        15:
+          category_id: 9
+          sample_project_ids:
+            primary: 22454
+            secondary: 20105
+        16:
+          category_id: 29
+          sample_project_ids:
+            primary: 11470
+            secondary: 6997
+        17:
+          category_id: 27
+          sample_project_ids:
+            primary: 18964
+            secondary: 8583
+        18:
+          category_id: 3
+          sample_project_ids:
+            primary: 11847
+            secondary: 10800
+        19:
+          category_id: 4
+          sample_project_ids:
+            primary: 6519
+            secondary: 14762
+        20:
+          category_id: 8
+          sample_project_ids:
+            primary: 9531
+            secondary: 13592
+        21:
+          category_id: 12
+          sample_project_ids:
+            primary: 2073
+            secondary: 9744
+        22:
+          category_id: 28
+          sample_project_ids:
+            primary: 14594
+            secondary: 16322
+        23:
+          category_id: 11
+          sample_project_ids:
+            primary: 13425
+            secondary: 7391
+        30:
+          category_id: 30
+          sample_project_ids: 
+            primary: 2895
+            secondary: 8389
+      panes:
+        1:
+          label: 'quick and agile Service'
+          src: '/assets/start-atendimento-ui.gif'
+        2:
+          label: 'Complete Control Panel'
+          src: '/assets/start-painel-ui.gif'
+        3:
+          label: 'Campaign Blog'
+          src: '/assets/start-blog-ui.gif'
+        4:
+          label: 'parceled Support'
+          src: '/assets/start-apoio.gif'
+        5:
+          label: 'facilitated Transfer'
+          src: '/assets/start-repasse.gif'
+      testimonials_title: 'What people are saying around...'
+      testimonials:
+        1:
+          thumb: '/assets/start/thumb-marcela.jpg'
+          content: "I'm sequencing the genome of the golden mussel. collectively I funded my PhD research. This model could change the world."
+          name: 'Marcela Uliano'
+          totals: 'Raised R $ 40,736 with the help of 344 people to enable the Genome Golden Mussel project.'
+        2:
+          thumb: '/assets/start/thumb-tiago.jpg'
+          content: 'Yeah order to do? Mete face. With the incentive law benefits only those who have a name. And then, you will be stopped? Stop complaining and go look for an alternative.'
+          name: 'Tiago Vieira'
+          totals: 'Raised R $ 34,260 with the help of 203 people to make the project "When I stopped worrying about Scoundrels." The film ended up in Cannes. ;)'
+        3:
+          thumb: '/assets/start/thumb-natalia.png'
+          content: 'A good reporter knows how difficult it is to get money to finance the reporting of your dreams and still have editorial independence to actually write what he found.'
+          name: 'Natalia Viana'
+          totals: 'Raised R $ 129,159 in 1771 to receive support to carry out two projects of the Public Agency for Investigative Journalism'
+        4:
+          thumb: '/assets/start/thumb-apanhador.jpg'
+          content: 'We have other possibilities to finance, but chooses to believe that crowdfunding same way. The more the public is with the decisions at hand, the better.'
+          name: 'Alexandre Kumpinski (Catchers Only)'
+          totals: 'Raised R $ 163,600 in 2181 to receive support to carry out 2 projects'
+        5:
+          thumb: "/assets/start/thumb-larissa.png"
+          content: 'I know they have 200 more people there with me, sending positive energy, twisting, making part of it and walked to the Olympics with me.'
+          name: 'Larissa Juk'
+          totals: 'Raised R $ 28,532 to receive 218 support for the project Larissa Juk towards Rio 2016 Olympics'
+      qa_title: 'Have questions?'
+      qa:
+        col_1:
+          1:
+            question: 'Why make a campaign Catharsis?'
+            answer: 'First because we are extremely committed and passionate about what we do and we want to see your project funded. But also because we are the first and largest platform operating in Brazil. We are working independently to develop the project financing scenario in Brazil and enable more people to enable their ideas, dreams and visions.'
+          2:
+            question: "It's too much work to have a campaign in Catharsis?"
+            answer: 'Each project in Catharsis has its own particularity and the amount of work varies. Subscribe a project Catharsis is very easy, but a campaign has its challenges. The secret is to have a good campaign planning! We can help you! <a href="#start-form">Just get your draft.</a>'
+          3:
+            question: 'The Catharsis selects the projects that enter the air?'
+            answer: 'No. You create your draft and publish your direct campaign by the site when you want. However, there are some<a href="http://suporte.catarse.me/hc/pt-br">rules for creating projects</a> you should follow so that your project does not risk being denounced by the community after publication.'
+          4:
+            question: 'Who can use Catharsis?'
+            answer: 'The Catharsis provides support to users of the site and makes it possible for projects capture resources in a fast and direct way using the internet. Anyone above 18 years (or less, but with a legal representative) can use our services and make a crowdfunding campaign.'
+        col_2:
+          1:
+            question: 'Do I need to achieve the goal to get my money?'
+            answer: 'It depends on the type of financing you choose. In the model "All or Nothing", you just keep the money if you reach the collection target in the campaign time stipulated by you. If the project does not reach the collection target, fully refund the money to its supporters, at no cost to you or who supported you. <br><br> In the flexible financing arrangements, affectionately called "Flex", you get all the money to get independent hit the target or not. You can better understand the difference between the models and what is right for your project that<a href="http://fazum.catarse.me/tudoounada-ou-flex?ref=ctrse_start">eBook prepared.</a>'
+          2:
+            question: 'What are our rates?'
+            answer: 'No model All or Nothing, the Catharsis only charges a fee of 13% of the total amount collected if you reach 100% or more of its target. Otherwise, we will refund the money to the supporters and will not charge anything from anyone.<br><br>In the Flex model, Catharsis charges 13% of the total collected by the campaign. If the project does not collects nothing, no charge.'
+          3:
+            question: 'Where does the money from my project?'
+            answer: 'Family, friends, fans and community members that you are part of its major contributors. You shake the network, achievement supports and promotes the project. Supporters disclose and recommend your campaign to other people they know, and so the circle of supporters is growing and getting campaign support. The secret is to build a good project, and plan your campaign and know direct their outreach efforts to those who may actually be interested in what you are proposing in your crowdfunding campaign. '
+          4:
+            question: 'I have more questions. How do I do?'
+            answer: '<a href="http://suporte.catarse.me/hc/pt-br">Visit our Support Center</a> or contact us via email: contato@catarse.me'
+      form:
+        title: 'I want to start a campaign called'
+        select_default: 'Select a city'
+        submit: 'Start your draft'

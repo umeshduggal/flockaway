@@ -1,0 +1,95 @@
+en:
+  admin:
+    menu: "Channel Moderation"
+    followers_menu: "Followers"
+    statistics_menu: "Statistics"
+    profile_menu: "Edit Channel"
+    partners_menu: "Edit partners"
+    statistics:
+      title: 'channel statistics'
+      total_subscribers: 'Total subscribers'
+    confirmations:
+      destroy: Are you sure you want to delete?
+    filter:
+      between_created_at: Created between
+      by_id: For id
+      order_table: Sort table
+      pg_search: Project
+      submit: Filter
+      title: Filter
+      user_name_contains: User
+      with_state: With state
+      by_payment_method: 'means of payment'
+      by_gateway: 'Gateway'
+    followers:
+      index:
+        download: Download list
+        title: Followers
+    management:
+      no_partners: No registered partner
+      no_posts: No registered novelty
+      title: Management
+      total: total projects
+    partners:
+      back_to_list: "? Back to manage partners"
+      new:
+        add_partner: Adiconar partner
+      edit:
+        edit_title: Edit partner
+      form:
+        hint_image: Image size 370x320
+        save_submit: Save
+      index:
+        new_button: Add partner
+        table:
+          created_at: Created
+          image: Image
+          name: Name
+          url: Site
+          actions: Actions
+        title: Managing partners
+    posts:
+      back_to_list: "? Back to manage news"
+      new:
+        create_news: Create new
+      edit:
+        edit_news: Edit New
+      index:
+        new_post_button: Create new
+        table:
+          actions: Actions
+          created_at: Created at
+          published_at: Published at
+          title: new title
+        title: Manage news
+      form:
+        save_submit: Save and Preview
+      update:
+        published_message: "His news was published and mailed to followers channel."
+      warning_html: Remember that all published news goes directly to the email his followers. So well review your text before sending it.
+    posts_menu: Manage news
+    table:
+      approve: Approve
+      category: Category
+      confirmation: Are you sure you want to delete this project?
+      contributed_projects: Projects supported
+      created_projects: created Project
+      destroy_action: delete
+      edit_action: Edit
+      expires_at: End
+      goal: Goal
+      name: Title
+      online_date: Publication
+      pledged: Reached
+      publish_action: Post
+      recommended: Recommend
+      reject: Reject
+      send_to_draft: Send to draft
+      put_online: Put in the air
+      send_to_trash: DELETE PROJECT
+      show_action: View
+      state: State
+      total_contributions: Support
+      unpublish_action: Unpublish
+      user: User
+      user_id: User
