@@ -22,14 +22,14 @@ App.addChild('DashboardUserSettings', {
     var type = $( ".account_type option:selected" ).text();
     var label_text;
 
-    if (type == 'Pessoa Física') {
+    if (type == 'Physical person') {
       label_text = this.$("#project_account_attributes_owner_name").data('natural');
       document_label_text = this.$("#project_account_attributes_owner_document").data('natural');
       this.$inscription.hide();
       this.$(".user-document").prop('maxlength', 11);
       this.$(".user-document").fixedMask('999.999.999-99');
     }
-    else if (type == 'Pessoa Jurídica') {
+    else if (type == 'Legal person') {
       label_text = this.$("#project_account_attributes_owner_name").data('juridical');
       document_label_text = this.$("#project_account_attributes_owner_document").data('juridical');
       this.$inscription.show();
