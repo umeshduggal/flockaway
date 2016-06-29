@@ -82,7 +82,7 @@ en:
         headline: "Tagline"
         image_url: "Image URL"
         name: "Project name"
-        goal: "Amount to be raised"
+        goal: "Trip fee per person"
         about_html: "Project Description"
         user_id: "User Id"
         service_fee: 'Rate of Catharsis'
@@ -105,7 +105,7 @@ en:
         image_url: "Image URL"
         name: "Project Name"
         service_fee: 'Rate of Catharsis'
-        goal: "Amount to be raised"
+        goal: "Trip fee per person"
         about_html: "Project Description"
         user_id: "User Id"
         video_url: "Video URL"
