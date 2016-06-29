@@ -1,0 +1,284 @@
+en:
+  projects:
+    flex_nav_actions:
+      publish: 'Publish'
+      announce_expiration: 'Define term'
+    aon_nav_actions:
+      publish: 'Publish'
+      send: 'Submit'
+    edit:
+      flex:
+        budget_html: "Budget"
+        video_html: "Video <span class='fontcolor-terciary'>(Optional)</span>"
+        video_subtitle: 'The video is optional, but we strongly recommend that you do! A good video makes a difference and can be largely responsible for the success of your project.'
+        reward_html: "Rewards <span class='fontcolor-terciary'>(Optional)</span>"
+        reward_subtitle: "If you want to start a project without reward and add then too, feel free!"
+      aon:
+        budget_html: "Budget"
+        video_html: "Video <span class='fontcolor-terciary'>(Optional)</span>"
+        video_subtitle: 'The video is optional, but we strongly recommend that you do! A good video makes a difference and can be largely responsible for the success of your project.'
+        reward_html: "Create and edit here its rewards"
+        reward_subtitle: "This is their demonstration of gratitude with the signers. Remember to include the costs of the rewards in your budget. He promised, delivered! "
+      posts: "Write a novelty"
+      announce_expiration: 'Period of raising'
+      announce_expiration_subtitle: 'Choose well to date, because you will not be able to change it later. After this period, you will receive your money within 10 working days.'
+      budget_subtitle: "How your money will be used? The more transparency better. Show what steps and processes involved in using these resources. A list with the main items of the budget or even a pie chart go super well here."
+      card: 'Card of the project'
+      card_subtitle: 'You know that cardzinho of design that appears in the home and in the search? Since then, makes beautiful because it is said that the first impression is that it is ;)'
+      basics: 'Please fill in the information below'
+      basics_subtitle: 'The data reported in this section cannot be modified when the project is in the air. Complete with attention and review before launching the project. '
+      goal: 'Financing'
+      goal_subtitle: 'Fill with affection the section below, since this information can no longer be changed if the project is to air.'
+      reports: 'Reports of support'
+      user_settings: 'Data registration and banking'
+      user_settings_subtitle: 'With the data below, your project will be ready to go to air. After you complete the Fill, click Save. Please review. If everything is ok, you simply press the Publish button and begin your campaign!'
+      user_about: "Tell us more about you!"
+      user_about_subtitle: "supporters want to know more about the filmmakers of projects. Links that help to tell your story are always welcome. "
+      description: 'Tell the story of your project!'
+      description_subtitle: 'Think well in the narrative of the project. It is she who will delight the people and bring supporters. A good video and description are the differentials!'
+    reward_fields:
+      edit: "Edit reward"
+      reward: Reward
+      info_box: "Describe the value of the reward and put an estimate of actual delivery date for the supporters. You can also limit a reward and when the limit is reached it appears as exhausted. If you want to change the order that the rewards appear in your project, simply do this by dragging them up or down."
+      minimum_value: "Value:"
+      deliver_at: "Delivery Forecast:"
+      description: "Description:"
+      limit_reward: "Limit reward"
+      available: "available Amount"
+      submit: "Save"
+    index:
+      select_reward: "Select this Reward"
+      display_remaining: "%{remaining} of %{maximum} available"
+      dont_want: "I do not want to reward"
+      limited: Limited
+      sold_out: exhausted
+      contributions_to_confirm:
+        one: "1 support in term of confirmation."
+        other: "%{count} support in term of confirmation."
+      edit_reward: Edit rewards
+      new_reward: Register rewards
+      reward_deliver_time: "<b>Delivery Estimates:</b> %{estimate}"
+      reward_title: "To %{minimum} or more"
+    dashboard_insights:
+      finish_explanation: 'your campaign is still with the term open. To receive the funds in your bank account, you must set a final date of collection.'
+      know_more: ' Learn more.'
+    dashboard_user_settings:
+      natural: "Full name of the holder"
+      juridical: "business name of the holder"
+      title: "The record data and banking"
+      subtitle_html: "With the data below, your project will be ready to go to air. After you complete the Fill, click Save. Please review. If everything is ok, you simply press the Publish button and begin your campaign!"
+      owner_document_natural: "SOCIAL SECURITY NUMBER of the holder of the bank account"
+      owner_document_juridical: "CNPJ of the holder of the bank account"
+      user_data_title: "Bank Details"
+      user_data_subtitle_html: "These data will be used for the issuing of our fiscal note and for the passthrough of money, in the case of your project be successful."
+      account_subtitle_html: "We need the data below to make the financial transfer for successful projects. <b>ATTENTION: THE CPF/CNPJ listed in the registration data and bank details must be the same.</b>"
+      account_edit_disabled_html: "The data below were informed by you at the time of publication of your project. To avoid errors in the transfer of funds, the edition of these data is locked so that your project has entered the air. If you want to change them, is only %{link} stating the changes you want to make."
+      submit: "Save"
+    dashboard_home_templates:
+      status: Status:"
+      project_numbers:
+        financed: financed
+        backed: raised
+        contributions: support
+        left: other
+      waiting_funds:
+        title: "%{name}, we are processing the last payments."
+        subtitle_html: "His project was finalized in %{expires} and is waiting for confirmation of bills and payments. Due to the maturity date of billets, projects that had support from last time are for up to 4 working days in this status, counted from the date of completion of the project. %{link}."
+        header: "From here your project can hit the target or not. See what happens in each of the cases:"
+        success: "I hit the target:"
+        failed: "Do not hit the goal:"
+        good_luck: "Good luck!"
+      successful:
+        title: "%{name}, celebrate that you deserve!"
+        subtitle_html: "Your project was successful and now is the time to start the relationship work with their supporters! Special attention to the delivery of rewards. He promised? Delivered! Be sure to look at the post-project of %{link1} and inform yourself about %{link2. "
+        header1: "And do not forget: transparency is everything."
+        transparent_html: "Keep an informed supporter is to maintain a happy supporter. Even if you go inform him of a failure or setback. Supporters happy are %{link} . Therefore, use and abuse (always in moderation) of aba news. What you write there goes straight in the mail from their supporters. I will start the delivery of rewards? The tab 'reports' you low information so that you can make the management of delivery of rewards from your project."
+        header2: "Be sure to read:"
+      rejected:
+        title: "%{name}, unfortunately it was not this time."
+        subtitle_html: "You sent your project for analysis of catharsis and understand that it is not in accordance with the profile of the site. Have a project refused does not prevent you from sending new projects for evaluation or rephrase your current project. Chat with our customer service! We recommend that you take a good look at the %{link1} and %{link2}."
+      online:
+        title: "%{name}, Your campaign is in the air!"
+        subtitle_html: "Your project is in the air and his campaign will conclude at 23hs59min59s of the day %{date}. Until this day and time you can receive support. Remember, it's all-or-nothing and you just take the proceeds if you hit the target that was set. Go to our %{link2} for any other questions!"
+        explanation_html: "<div class='fontsize-base u-marginbottom-40 card card-terciary'><p class='fontweight-bold'>With the project in the air, some information can no longer be edited</p><p> you can no longer change: <br> - your goal of abstraction;<br> - the deadline;<br> - The URL of the project;<br> - the user owner of the project.</p><p class='fontweight-bold'>needs more information about processes of campaign? See the box on the right.</p><p>The research&nbsp;%{link1} also is an excellent source of data on the Brazilian scenario. A good read on the&nbsp; %{link2} can be inspiring. Here you'll find stories of successful projects and tips.</p></div>"
+      failed:
+        title: "%{name}, do not be discouraged!"
+        subtitle_html: "Your project does not hit the goal and know that this is not the best of sensations. But do not be discouraged. Consider the process as a learning experience and don't miss our minds on a second attempt. Don't worry, all his supporters will receive the money back. %{link}."
+        questions: "We send also an email to you with two perguntinhas. If you have time and head, it would be great if you could take a look. Your feedback helps us build a better catharsis and more fun for you."
+      draft:
+        title: "%{name}, build your project!"
+        subtitle: "How much more careful and well formatted for a project, the greater the chances of it being successful in your fundraising campaign. Before you send your project to our analysis, fill in all of the tabs to the side with affection. You can save changes and return to the draft project as many times as you want. When everything is ready, click the Submit button and we will contact you to assess your project."
+        subtitle_flex: "How much more careful and well formatted for a project, the greater the chances of it being successful in your fundraising campaign. Before you publish your project, please fill in all of the tabs to the side with affection. You can save changes and return to the draft project as many times as you want. When everything is ready, click the Submit button and we will contact you to assess your project."
+        study_title: "felt that need to study more to assemble your project? Check the links in the box beside."
+      approved:
+        title: "%{name}, Your project has been approved!"
+        subtitle_html: "To put your project into the air it just takes you to fill in the necessary data in aba %{link1. It is important to know that we charge the fee of 13% of the total value earned only by successful projects. Understand %{link2}. "
+      in_analysis:
+        title: "%{name}, you sent your project for review and you will receive our response within 4 working days"
+        subtitle_html: "Thank you very much! Our staff will evaluate the entire contents of your project and up to 4 business days you will receive an email stating if it was approved, refused or whether it will continue in the analysis for some time so that you can make adjustments suggested. Take this time to collect feedback with people coming!"
+    dashboard_analysis_success:
+      title: "%{name}, Your project was submitted for analysis!"
+      subtitle: "You will receive our response within 4 working days on email:"
+      next_steps: "While waiting for his response, you can continue editing your project! We also recommend that you go collecting feedback with people coming and planning how will your campaign."
+    dashboard_nav:
+      leave_link_html: "&nbsp; Exit the control panel"
+      start_tab: ' My Campaign'
+      reports_tab: ' Reports of support'
+      preview_tab: Preview
+      posts_tab: ' News '
+      edit_project: ' Edit project '
+      send: Send
+      announce_expiration: Set deadline
+      publish: Publish
+    dashboard_nav_links:
+      flex:
+        preview_tab: Preview
+        account_tab: Account
+        basics_tab: Basic
+        goal_tab: Financing
+        budget_tab: Budget
+        card_tab: Card of the project
+        description_tab: Overview
+        video_tab: "Video <span class='fontsize-smallest fontcolor-secondary'>(Optional)</span>"
+        rewards_tab: "Rewards <span class='fontsize-smallest fontcolor-secondary'>(Optional)</span>"
+        about_you_tab: About you
+      aon:
+        preview_tab: Preview
+        account_tab: Account
+        basics_tab: Basic
+        goal_tab: Financing
+        budget_tab: Budget
+        card_tab: Card of the project
+        description_tab: Overview
+        video_tab: "Video <span class='fontsize-smallest fontcolor-secondary'>(Optional)</span>"
+        rewards_tab: Rewards
+        about_you_tab: About you
+    flex_dashboard_explanation:
+      flex:
+        kind_text: "You are participating in the period of Testing the flexible model. Your participation is essential in order to understand how we can expand this model for all users. %{link}"
+        expiration_text: "In Flexible, you can stay with your campaign in capture by up to 1 year! With her in the air, you have the option to set an end date for the project (minimum of 2 days). After the end of the campaign, you receive everything that you have collected (fees deducted) by up to 10 working days."
+        expiration_title: "a period of fundraising"
+    dashboard_user_about:
+      submit: "Save"
+      twitter_label: "twitter profile"
+      twitter_hint: "Paste the link in your profile"
+      other_link_label: "web presence"
+      other_link_hint: "Include links that help the signers to understand why you are the right person for doing this project. "
+      about_label: "About you"
+      about_hint: "Use this space if you want to better describe you, your company or your institution. Either give credit to partners? Use some institutional video? This space is yours and use it any way you want. All this information will appear on the tab on your public profile."
+      facebook_link_label: "facebook profile"
+      facebook_link_hint: "Paste the link in your profile"
+      uploaded_image_label: "Profile Picture"
+      uploaded_image_hint: "This image will be used as the thumbnail of your profile (PNG, JPG ideal size 280 x 280)"
+      name_label: "Name"
+      name_hint: "This is the name that users will see on your profile."
+      email_label: Email to sign up
+      email_hint: Email for you to login in catharsis and communicate with our team and with their supporters
+    dashboard_goal:
+      submit: "Save"
+      kind_label: "Type of financing"
+      kind_link: "If you want to learn more, click here"
+      flex:
+        kind_text: "You are participating in the testing period of flexible model. Your participation is essential in order to understand how we can expand this model for all users. %{link}"
+    dashboard_description:
+      submit: "Save"
+    dashboard_reward:
+      submit: "Save"
+      add_reward: "Add reward"
+      reward: "Reward"
+    dashboard_announce_expiration:
+      explanation_01: 'At the beginning of the final stretch, we will open a countdown of 7 days. You can receive support to:'
+      explanation_02: 'This is an irreversible action. After that the final stretch is defined, the project will no longer be able to change your final deadline for acquisition. At the end of the period, you receive all the proceeds.'
+    dashboard_preview:
+      aon:
+        header_subtitle: "It is time for the feedbacks!"
+        header_text: "share the link below with your friends and take the time to make fine adjustments that help in her campaign."
+      flex:
+        header_subtitle: "It is time to hear suggestions!"
+        header_text: "share the link %{link} with your friends and take the time to make fine adjustments that help in her campaign."
+        publish_btn_html: "I am satisfied! <br>I publish my project now"
+    dashboard_posts:
+      only_to_backers: "I want this novelty is only visible for signers."
+      publish: 'Publish news'
+      discard: 'Ddiscard'
+      warning: "All news published is sent directly to their supporters by email. Please review and post before you publish."
+      old_posts: "old news"
+    dashboard_budget:
+      submit: Save
+      budget_label: "The project budget"
+    dashboard_card:
+      submit: Save
+      card_label: "Card of the project"
+    dashboard_video:
+      submit: Save
+      aon:
+        card_label: "Video"
+        video_url: "Video of the project"
+        video_url_hint: ""
+        video_url_subtitle: "Link to Vimeo or Youtube. This is the primary video of his campaign."
+      flex:
+        card_label: "Video"
+        video_url: "Video of the project"
+        video_url_hint: ""
+        video_url_subtitle: "Link to Vimeo or Youtube. This is the primary video of their campaign. "
+    dashboard_basics:
+      city: 'the project site'
+      online_date: 'Data from entering the air'
+      user_id: 'User id'
+      service_fee: 'Rate of catharsis'
+      name: 'Project Name'
+      name_label: 'How much more straightforward. Do not exceed 50 characters'
+      url: 'Project URL'
+      url_label: 'It is the address of your project, it should be easy to remember. Avoid underline, hyphen and symbols'
+      category: 'Uncategorized'
+      category_label: 'Explore and be inspired in other projects in the same category as yours.'
+      online_days: 'Time limit for storage'
+      online_days_label: 'You can choose between 1 and 60 days for your campaign. Check out the guide for filmmakers to tips about deadlines.'
+      value: 'amount to be collected'
+      value_secondary: "Plan a goal consistent with what your project proposes. Review your budget and don't forget to include the rate of 13% charged by catharsis if your project is successful"
+      form:
+        submit: 'Save'
+    successful_onboard:
+      start:
+        href: '#confirm_account'
+        icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c3508dbfc50aef5095c66a_finish-icon.png'
+        title: 'Congratulations!'
+        text: "I project was completed successfully and you have <span class='fontweight-semibold'>R$ %{total_amount}</span> to receive (taxes are deducted)! For efetuarmos the transfer, we need you to confirm your bank details."
+        cta: 'Confirm bank details'
+      pending_transfer:
+        icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c350c5e7d136a016bc34a4_transfer-ok-icon.png'
+        title: 'Bank Transfer in progress'
+        text: 'Until the day %{transfer_limit_date}, R$ %{total_amount} (taxes are deducted) will be in your bank account %{bank_name}, Agency: %{agency}, Account: %{account. Keep an eye on the email %{user_email}, because our team can get in touch with you if a problem occurs with the bank!'
+      error_account:
+        icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c350fabfc50aef5095c67d_transfer-pending-icon.png'
+        title: 'Bank Transfer pending'
+        text: "your bank details were with some wrong information and have been notified of this problem! Keep an eye on the <span class='fontweight-semibold'>%{user_email}</span>, because we are going to solve this problem via email!"
+      finished:
+        icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c3511ee7d136a016bc34fa_succesful-icon.png'
+        title: 'Good luck on your project !'
+        text: 'Always work the relationship with their supporters ! Keep them informed of the progress of your project. Be sure to look at the post-project section of the Guide for Filmmakers !'
+      confirm_account:
+        title: 'your details are correct?'
+        person:
+          label: 'Person: '
+          juridical: 'legal basis'
+          natural: 'Physics'
+          name: 'Full name of holder: '
+          document: "CPF the holder of the bank account: "
+          bank:
+            name: 'Bank: '
+            agency: 'Agency: '
+            account: 'The Current Account: '
+          address: 'Address: '
+          Neighborhood: 'Neighborhood: '
+          city: 'City: '
+          state: 'State: '
+          zip_code: 'Zip Code: '
+        accept:
+          title: 'Are you sure?'
+          info: 'Any wrong information at this time may delay the transfer of resources!'
+          cta: 'Confirm'
+        refuse:
+          title: 'What is wrong with your data?'
+          placeholder: 'Help us saying what needs to be adjusted ! This will make our work easier and save you time .'
+          cta: 'To send'

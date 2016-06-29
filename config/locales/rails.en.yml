@@ -90,11 +90,16 @@ en:
         one: 1 second
         other: ! '%{count} seconds'
     prompts:
+      days: Day
+      hours: Hour
+      minutes: Minute
+      months: Month
+      seconds: Seconds
       day: Day
       hour: Hour
       minute: Minute
       month: Month
-      second: Seconds
+      seconds: Seconds
       year: Year
   errors: &errors
     format: ! '%{attribute} %{message}'

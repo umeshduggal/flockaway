@@ -102,6 +102,15 @@ en:
         subtitle_html: "A project %{link}"
         without_city: "A project"
         with_city: "A %{project} category_name by %{author} in %{city}"
+      menu:
+        about: About
+        add_reward: Add reward
+        comments: Comments
+        contributions: Support
+        metrics: Metrics
+        edit: Edition
+        reports: Reports
+        posts: News
       no_rewards_warning: "Do not travel! Think of how you will deliver them and put everything this budget. Prometheus?! FOLLOW! :D"
       no_rewards_warning_title: "Create here your rewards"
       contribution_states:

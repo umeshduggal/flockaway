@@ -1,0 +1,170 @@
+en:
+  projects:
+    home:
+      row_title: 'Popular'
+      banners:
+        1:
+          title: 'Finance your project'
+          subtitle: 'Start your fundraising campaign and join the largest crowdfunding community in Brazil'
+          link: '/start?ref=home_banner'
+          cta: 'Start now'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-start.jpg'
+        2:
+          title: 'Friends of Casa Plana'
+          subtitle: 'Come together in the construction of the headquarters of one of the most important fairs of independent art in Brazil.'
+          link: 'https://www.catarse.me/plana?ref=home_banner'
+          cta: 'Know the project'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-plana.jpg'
+        3:
+          title: 'For My Son Will Get'
+          subtitle: 'A father who will be born share thoughts and feelings with the child waiting.'
+          link: 'https://www.catarse.me/para_o_meu_filho_que_vai_chegar_4c4e?ref=home_banner'
+          cta: 'Know the project'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-meufilho.jpg'
+        4:
+          title: 'Kilimanjaro - the Giant guide Africa'
+          subtitle: 'The adventure of conquering the highest mountain in Africa and show that ordinary people are capable of extraordinary things.'
+          link: 'https://www.catarse.me/kilimanjaro?ref=home_banner'
+          cta: 'Know the project'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-africa.jpg'
+        5:
+          title: 'Galicia'
+          subtitle: 'A science fiction result of work 3000 hours and many gallons of ink.'
+          link: 'https://www.catarse.me/Galicia?ref=home_banner'
+          cta: 'Know the project'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-galicia.jpg'
+        6:
+          title: 'Original Fairy Tales'
+          subtitle: 'A rescue stories packing childhood, now in its authentic versions.'
+          link: 'https://www.catarse.me/contosdefadas?ref=home_banner'
+          cta: 'Know the project'
+          image: 'https://s3.amazonaws.com/cdn.catarse/assets/banner-home-fadas.jpg'
+    new_feature_badge: 'New'
+    publish:
+      aon: 'All or nothing'
+      flex: 'Flexible'
+    insights:
+      tooltip: 'Reports where they came from the support of their project. Learn how to use this table and plan better your communication actions'
+      finish_explanation: 'Your campaign is still with the term open. To receive the funds in your bank account, you must set a final date of collection. '
+      know_more: ' More.'
+      referral:
+        ctrse_explore: 'Search the Catarse'
+        ctrse_explore_featured_big: 'highlight in the design explore'
+        ctrse_explore_featured_medium: 'Featured Project in average explore'
+        home_recommended: 'Recommended Projects on the homepage'
+        user_menu_my_projects: 'User Menu'
+        profile_created_projects: 'user public profile (created projects)'
+        home_banner: 'prominent banner on the home page'
+        notificacao_pending: 'pending notification support'
+        notificacao_cancelado: 'support Notification canceled'
+        home_recent: 'Recent projects on the homepage'
+        home_banner_explore: 'prominent banner on the home page'
+        user_projects: 'user profile (created projects)'
+        home_near: 'projects near me on the home page'
+        user_menu_my_contributions: 'User Menu'
+        home_expiring: 'in the homestretch Projects on the homepage'
+        notification_pending: 'pending notification support'
+        notificacao_subscription_category: 'Following notification Category'
+        banner_home: 'prominent banner on the home page'
+        ctrse_thankyou: 'support thank you page'
+        project_post: 'Post new project'
+        profile_contributed_projects: 'user public profile (supported projects)'
+        user_contributions: 'User Profile (projects supported)'
+        notificacao_projeto_nao_financiado: 'project not funded Notification'
+        notificacao_reminder: 'Reminder Notification 48 hours'
+        profile_dashboard_created_projects: 'Private profile user (created projects)'
+        ctrse_hello: 'Page Learn More Catarse'
+        credits_warning_more_group: 'credits Notification'
+        hotsitepesquisa3anos: 'Research Catarse RFCBR'
+        ctrse_embed: 'Project Card (embed)'
+        home_near_of: 'projects near me on the home page'
+        credits_warning_less_group: 'credits Notification'
+        notificação_resgate_botao: 'credits Rescue Notification'
+        notificação_resgate_rascunho: 'draft notification created'
+        ctrse_newsletter: 'Newsletter Catarse'
+        ctrse_facebook: 'Facebook Catarse'
+        ctrse_patrocinado_facebook: 'Facebook sponsored the Catarse'
+        ctrse_twitter: 'Twitter Catarse'
+        ctrse_instagram: 'Instagram Catarse'
+        ctrse_blog: 'blog Catarse'
+        ctrse_youtube: 'Youtube Catarse'
+        ctrse_universohq: 'Universo HQ (Catarse partnership)'
+        ctrse_catraca: 'Ratchet Free (Catarse partnership)'
+        ctrse_hypeness: 'Hypeness (Catarse partnership)'
+        others: 'Direct'
+      ref_table:
+        header:
+          origin: 'Source'
+          contributions: 'Support'
+          amount: 'R$ supported (% of total)'
+        help_url: 'http://suporte.catarse.me/hc/pt-br/articles/206452286-Como-entender-o-gr%C3%A1fico-Origem-de-Apoios-e-adicionar-refs-%C3%A0-sua-comunica%C3%A7%C3%A3o-'
+      campaign_title: 'My Campaign'
+      campaign:
+        aon:
+          online: 'You can receive support to 23hs59min59s day %{expires_at}. Remember, its all-or-nothing and you just take the proceeds to hit the target within that period.'
+          successful: '<span class="fontweight-semibold">%{username} celebrate you deserve!</span> His project was successful and now is the time to start working relationship with their supporters! Special attention to the delivery of rewards. Prometheus? Delivered! Be sure to look at the post-project section <a class="alt-link" href="/guides">Guide Filmmakers</a> and learn about <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-" target="_blank">as the transfer of money will be made </a>.'
+          waiting_funds: '<span class="fontweight-semibold"> %{username} we are processing the last payment! His project was finalized in %{expires_at} and is awaiting confirmation slips and payments. Due to the maturity of bills, projects that had last minute support are for up to 4 days in that status, starting from the project completion date. <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-" target="_blank">Understand how the transfer of money is made to successful projects</a>.'
+          failed: '<span class="fontweight-semibold">%{username} do not be discouraged!</span> His project did not hit the target and we know that this is not the best of feelings. But do not be discouraged. Think of the process as a learning experience and be sure to entertain a second attempt. Do not worry, all your supporters will receive the money back. <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos" target="_blank">Understand how we chargebacks and refunds</a>.'
+          rejected: "<span class='fontweight-semibold'>%{username} unfortunately it was not this time.</span> You sent your project to analyze the Catharsis and we understand that it is not according to the site's profile. Having a declined project does not prevent you to submit new projects for review or reformulate your current project. Talk to our service! We recommend that you take a good look at the <a class='alt-link' href='http://suporte.catarse.me/hc/pt-br/articles/202387638-Diretrizes-para-cria%C3%A7%C3%A3o-de-projetos' target='_blank'>Platform criteria</a> e no <a class='alt-link' href='/guides'>Guide for directors</a>."
+          draft: '<span class="fontweight-semibold">%{username} Build your project!</span> The more careful and well formatted for a project, the greater the chances of it being successful in your fundraising campaign. Before you publish your project, fill out all the tabs to the side with affection. You can save the changes and return to the project draft as many times as you want. When everything is ready, click the PUBLISH button.'
+          in_analysis: '<span class="fontweight-semibold">%{username} you send your design to analysis %{sent_to_analysis_at} and receive our assessment within 4 working days after dispatch!</span> While waiting for your answer, you can continue editing your project. We also recommend that you go collecting feedback with people nearby and planning how will your campaign.'
+          approved: '<span class="fontweight-semibold">%{username} his project was approved!</span> To place your project in the air it just takes you to fill in the required data in tab <a class="alt-link" href="#user_settings">Account</a>. It is important to know that we charge a fee of 13% of the total amount collected only for successful projects. Understand <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-" target="_blank">we do the transfer of money</a>.'
+        flex:
+          online: 'You can receive support to 23hs59min59s day expires_at %{expires_at}. Understand how the <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/206507863-Catarse-flex-Principais-perguntas-e-respostas-" target="_blank">transfer of funds</a> after the end of his campaign.'
+          successful: '<span class="fontweight-semibold">%{username} celebrate you deserve! </ span> Your project was successful and now is the time to start working relationship with their supporters! Special attention to the delivery of rewards. Prometheus? Delivered! Be sure to look at the section of class="alt-link" <a post-project href="/guides"> Guide Filmmakers </a> and learn about <a class = "alt-link"href="http://suporte.catarse.me/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-" target = "_ blank"> as the transfer of money will be made </a>. '
+          failed: 'His project raised no recourse. But do not be discouraged! Think of the process as a learning experience and be sure to entertain a second attempt.'
+          waiting_funds: '<span class="fontweight-semibold">%{username} estamos processando os últimos pagamentos!</span> Seu projeto foi finalizado em %{expires_at} e está aguardando confirmação de boletos e pagamentos. Devido à data de vencimento de boletos, projetos que tiveram apoios de última hora ficam por até 4 dias úteis nesse status, contados a partir da data de finalização do projeto. <a class="alt-link" href="http://suporte.catarse.me/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-" target="_blank">Entenda como o repasse de dinheiro é feito</a> para projetos bem sucedidos.'
+          rejected: "<span class='fontweight-semibold'>%{username}we are processing the last payments. </span> You sent your project to analyze the Catharsis and we understand that it is not according to the site's profile. Having a declined project does not prevent you to submit new projects for review or reformulate your current project. Talk to our service! We recommend that you take a good look at the<a class='alt-link' href='http://suporte.catarse.me/hc/pt-br/articles/202387638-Diretrizes-para-cria%C3%A7%C3%A3o-de-projetos' target='_blank'>Platform criteria</a> and <a class='alt-link' href='/guides'> guide of </a> directors."
+          draft: '<span class="fontweight-semibold">%{username} </span> The more careful and well formatted for a project, the greater the chances of it being successful in your fundraising campaign. Before you publish your project, fill out all the tabs to the side with affection. You can save the changes and return to the project draft as many times as you want. When everything is ready, click the PUBLISH button.'
+      amount_per_day_label: 'R$ collected per day'
+      contributions_per_day_label: 'confirmed support a day'
+      location_origin_title: 'Geographical location of support'
+      ref_origin_title: 'Origin of support'
+    project:
+      contributed: Raised
+      reached: atingido
+      progress_html: "<span>%{percent}%</span> financed"
+      time_remaining_small_html:
+        one: "<div class='fontsize-smallest lineheight-tightest'>%{count} %{unit}</div> <div class='fontsize-smallest lineheight-tightest'>rest</div>"
+        other: "<div class='fontsize-smallest lineheight-tightest'>%{count} %{unit}</div> <div class='fontsize-smallest lineheight-tightest'>other</div>"
+      time_remaining_html:
+        one: "<span>%{count} %{unit}</span> rest"
+        other: "<span>%{count} %{unit}</span> remaining"
+      pledged_html: "<span>%{value}</span> raised"
+      display_status:
+        online: 'online'
+        expired: "finalized"
+        rejected: "refused"
+        failed: "unfunded"
+        success: funded
+        approved:
+        reached_goal: funded
+        waiting_confirmation: waiting
+        waiting_funds: waiting
+        not_reached_goal: waiting
+        draft: "draft"
+        in_analysis: "under review"
+    card:
+      by: by
+      remaining:
+        one: "rest"
+        other: "other"
+      contributed: Raised
+      reached: hit
+      progress_html: "<span>%{percent}%</span> financed"
+      time_remaining_html:
+        one: "<span>%{count} %{unit}</span> rest"
+        other: "<span>%{count} %{unit}</span> remaining"
+      pledged_html: "<span>%{value}</span> raised"
+      display_status:
+        flex_successful: "Funded Flex"
+        expired: "Finished"
+        rejected: "Declined"
+        failed: "Non-funded"
+        success: "Funded"
+        approved: Approved
+        reached_goal: Financed
+        waiting_funds: "period ended"
+        not_reached_goal: Waiting
+        draft: "Draft"
+        in_analysis: "In analysis"

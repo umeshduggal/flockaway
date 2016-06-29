@@ -17,7 +17,7 @@
                 .fontsize-small.u-marginbottom-20= t('.user_data_subtitle_html') 
                 .w-row
                   .w-col.w-col-6.w-sub-col
-                    = form.input_field :entity_type, as: :select, collection: ['Pessoa Física', 'Pessoa Jurídica'], class: 'w-select positive account_type', include_blank: false
+                    = form.input_field :entity_type, as: :select, collection: ['Physical person', 'Legal person'], class: 'w-select positive account_type', include_blank: false
                   .w-col.w-col-6
                 .divider.u-marginbottom-20
                 .w-row
@@ -55,11 +55,11 @@
                       .w-col.w-col-6.w-col-small-6.w-col-tiny-6.w-sub-col-middle
                         = form.input :account_digit, as: :string, 
                         input_html: { class: 'positive' }
-                .fontsize-base.fontweight-semibold Endereço
+                .fontsize-base.fontweight-semibold Address
                 .divider.u-marginbottom-20
                 .w-row
                   .w-col.w-col-6.w-sub-col
-                    = form.input :address_street, as: :string, label: 'Rua',
+                    = form.input :address_street, as: :string, label: 'Street',
                     input_html: { class: 'positive' }
                   .w-col.w-col-6
                     .w-row
